@@ -7,4 +7,4 @@ Attention Campers,
     
     Deal with it,
     
-    - Bob
+    - Uncle Tony
